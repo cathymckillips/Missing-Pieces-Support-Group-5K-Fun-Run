@@ -22,11 +22,11 @@ The purpose of this project is to demonstrate how fundraising and event data can
 
 ## 📎 Files Included
 - `MPSG_5K_Dashboard.mp4` – Walkthrough video of the dashboard
-- `MPSG-5K-Dashboard.jpg` - image
+- `MPSG-5KDashboard.png` - image
 - `README.md` — Project documentation (this file)
 
 ## 📊 Sample Visuals
-![Dashboard Overview](dashboard.jpg)
+![Dashboard Overview](MPSG-5KDashboard.png)
 
 ## 📊 Sample Video Demonstration
 ▶️ [Watch on YouTube](https://youtu.be/zXIm2jjzy5A)
