@@ -8,7 +8,7 @@ This project highlights an interactive Power BI dashboard designed for the Missi
 - **Participant Age Groups** – visualize age distributions across events
 - **Participation by Gender** – track inclusivity and engagement
 - **Current Donations vs. Fundraising Goal** – monitor progress toward the $5,000 goal
-- **Sponsors Recognition** – highlight supporting organizations and individuals (Amaro Law Firm, Draft House Design Studio, LLC, Trinity Gardens Church of Christ, Floors 2 Luv, Melissa Robertson ND LMT, Heart of Houston Birth & Wellness Center)
+- **Sponsors Recognition** – highlight supporting organizations and individuals (Ally, Amaro Law Firm, Draft House Design Studio, LLC, Trinity Gardens Church of Christ, Floors 2 Luv, Melissa Robertson ND LMT, Heart of Houston Birth & Wellness Center)
 
 ## 🛠️ Tools & Techniques
 - Power BI for data modeling and visualization
