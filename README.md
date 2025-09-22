@@ -29,7 +29,7 @@ The purpose of this project is to demonstrate how fundraising and event data can
 ![Dashboard Overview](MPSG-5KDashboard.png)
 
 ## 📊 Sample Video Demonstration
-▶️ [Watch on YouTube](https://youtu.be/zXIm2jjzy5A)
+▶️ [Watch on YouTube](https://youtu.be/8bcARNp7NRQ)
 
 ## 🗂️ Project Status
 
