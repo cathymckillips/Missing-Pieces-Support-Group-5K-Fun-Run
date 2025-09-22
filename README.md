@@ -21,7 +21,7 @@ This project highlights an interactive Power BI dashboard designed for the Missi
 The purpose of this project is to demonstrate how fundraising and event data can be transformed into actionable insights using interactive dashboards. This work supports Missing Pieces Support Group’s mission by providing visibility into participation, fundraising progress, and sponsor contributions—all while making the story behind the numbers more accessible.
 
 ## 📎 Files Included
-- `MPSG_5K_Dashboard.mp4` – Walkthrough video of the dashboard
+- `MPSG-5K-Dashboard.mp4` – Walkthrough video of the dashboard
 - `Dashboard.jpg` - image
 - `README.md` — Project documentation (this file)
 
