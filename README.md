@@ -29,7 +29,7 @@ The purpose of this project is to demonstrate how fundraising and event data can
 ![Dashboard Overview](dashboard.jpg)
 
 ## 📊 Sample Video Demonstration
-▶️ [Watch on YouTube]( https://www.youtube.com/watch?v=P9DBXyVb4L4)
+▶️ [Watch on YouTube](https://youtu.be/zXIm2jjzy5A)
 
 ## 🗂️ Project Status
 
